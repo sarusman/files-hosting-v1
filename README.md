@@ -1,12 +1,10 @@
 # hebergeur
 Hebergement de tout type de documents avec la possiblité de télécharger avec n'importe quel autre appareil. Lien : 
 
-Lien mort:
-  https://serveur1gratuit.pythonanywhere.com/ 
-
-Nouveau lien:
+LINK:
   https://serveur.pythonanywhere.com
-    OU
+OR:
   er.rf.gd
 
-Nouvelle vers
+for private use
+
