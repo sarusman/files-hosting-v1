@@ -1,10 +1,20 @@
-# hebergeur
-Hebergement de tout type de documents avec la possiblité de télécharger avec n'importe quel autre appareil. Lien : 
+# Efficient file host
+Hosting of all types of documents with the possibility of downloading with any other device.
 
-LINK:
+Written in Python and Javascript with the Flask library for the server.
+
+Link/lien:
   https://serveur.pythonanywhere.com
-OR:
+  
+or:
   er.rf.gd
 
-for private use
+For private use.
 
+![Capture d’écran 2021-12-12 à 00 33 27](https://user-images.githubusercontent.com/60844500/145694875-63c0ed39-9c18-42da-a528-674a928f145d.png)
+
+
+![Capture d’écran 2021-12-12 à 00 32 26](https://user-images.githubusercontent.com/60844500/145694876-fdbf9f5f-b709-44ea-81e6-ea66ec0d1207.png)
+
+
+![Capture d’écran 2021-12-12 à 00 32 34](https://user-images.githubusercontent.com/60844500/145694877-c5e963d9-94ac-4d1b-9bcb-6d257c53875b.png)
