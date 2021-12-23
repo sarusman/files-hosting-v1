@@ -3,7 +3,6 @@ Hosting of all types of documents with the possibility of downloading with any o
 
 Links:
 <a href="https://serveur.pythonanywhere.com">Host server</a>
-Direct link: er.rf.gd
 
 For private use.
 
