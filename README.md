@@ -1,13 +1,9 @@
 # Efficient file host
-Hosting of all types of documents with the possibility of downloading with any other device.
+Hosting of all types of documents with the possibility of downloading with any other device. Written in Python and Javascript with the Flask library for the server.
 
-Written in Python and Javascript with the Flask library for the server.
-
-Link/lien:
-  https://serveur.pythonanywhere.com
-  
-or:
-  er.rf.gd
+Links:
+<a href="https://serveur.pythonanywhere.com">Host server</a>
+Direct link: er.rf.gd
 
 For private use.
 
