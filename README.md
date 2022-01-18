@@ -1,6 +1,6 @@
 # Efficient file host
 Hosting of all types of documents with the possibility of downloading with any other device. Written in Python and Javascript with the Flask library for the server.
-
+Only 512 MB available on the server
 Links:
 <a href="https://serveur.pythonanywhere.com">Host server</a>
 
